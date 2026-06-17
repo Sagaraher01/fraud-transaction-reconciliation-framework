@@ -1,26 +1,21 @@
+# Dataset
+Dataset/
+*.csv
+
 # Python
 __pycache__/
 *.pyc
-*.pyo
 
-# Virtual Environment
-venv/
-env/
-.venv/
+# Databricks
+.dbc
 
-# IDE Files
-.vscode/
-.idea/
-
-# OS Files
+# OS files
 .DS_Store
 Thumbs.db
 
-# Environment Variables
-.env
-
-# Databricks temporary files
-*.dbc
-
 # Logs
 *.log
+
+# Environment
+.env
+venv/
